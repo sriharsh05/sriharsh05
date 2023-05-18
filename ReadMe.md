@@ -1,5 +1,5 @@
 # 💫 About Me:
-i' m currently working on Predicting Solar Energy Generation and Revenue Estimation using Machine Learning and Time Series Analysis.<br>i'm currently learning node js<br>ask me about astronomy.<br>
+i' m currently working on Predicting Solar Energy Generation and Revenue Estimation using Machine Learning and Time Series Analysis.<br>i'm currently learning Node js and Express.<br>Ask me about Astronomy.<br>
 
 
 ## 🌐 Socials:
