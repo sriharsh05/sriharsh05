@@ -2,7 +2,7 @@
 - i'm currently learning Node js and Express.
 - Ask me about Astronomy 🔭
 - 📫 How to reach me **sriharsh.harsha5@gmail.com**
-- 📄 Know about my experiences [bit.ly/resume_sriharsh](bit.ly/resume_sriharsh)
+- 📄 Know about my experiences [bit.ly/resume_sriharsh](https://bit.ly/resume_sriharsh)
 
 
 
