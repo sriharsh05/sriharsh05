@@ -1,8 +1,6 @@
 # 💫 About Me:
 - i'm currently learning React & Typescript.
-- Ask me about Astronomy 🔭
 - 📫 How to reach me **sriharsh.harsha5@gmail.com**
-- 📄 Know about my experiences [bit.ly/resume_sriharsh](https://bit.ly/resume_sriharsh)
 
 
 
