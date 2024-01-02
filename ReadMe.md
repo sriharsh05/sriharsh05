@@ -1,5 +1,5 @@
 # 💫 About Me:
-- i'm currently learning React & Typescript.
+- i'm currently learning Django framework.
 - 📫 How to reach me **sriharsh.harsha5@gmail.com**
 
 
