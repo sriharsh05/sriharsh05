@@ -1,6 +1,6 @@
 # 💫 About Me:
-- i'm currently learning Django framework.
 - 📫 How to reach me **sriharsh.harsha5@gmail.com**
+- To visit my portfolio [**sriharsh.in**](https://sriharsh.in)
 
 
 ## 🌐 Socials:
